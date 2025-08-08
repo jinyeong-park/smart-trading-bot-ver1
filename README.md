@@ -1,4 +1,8 @@
-Smart Trading Bot: 
+# Smart Trading Bot (STB)
+
+Frontend code: https://github.com/jinyeong-park/smart-trading-bot
+Backend code:
+
 
 Build a complete no-code prototype in LovableDP named "Smart Trading Bot (STB) — v1.0" using the following Product Requirements Document. Produce a working, demonstrable prototype (web dashboard + workflow automation) that supports paper/live trading via Alpaca and historical backtesting via Yahoo Finance. Deliverables: interactive web dashboard, configured workflows/automations, data storage (initial SQLite), mock or real Alpaca connector, alerting (email/SMS), logging & reports, test plan, diagrams, and a deployment checklist.
 
